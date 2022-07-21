@@ -1,0 +1,20 @@
+{
+    "Buy a reviewer account": {
+        "completed": true
+    },
+    "Go to school": {
+        "completed": true
+    },
+    "Make the child sleep": {
+        "completed": false
+    },
+    "Test if the pot is firm": {
+        "completed": false
+    },
+    "Tell mum goodnight": {
+        "completed": false
+    },
+    "Tell mum goodnights": {
+        "completed": true
+    }
+}
